@@ -5,6 +5,7 @@ It was made using React.js, MongoDB and Express.
 
 Live version: https://62b69f80232d3435199e9a4d--aesthetic-mochi-7faae1.netlify.app/
 
-Backend: https://github.com/bmortella/doty-backend
+Backend Repo: https://github.com/bmortella/doty-backend
+[Backend](https://doty-backend.herokuapp.com/)
 
 Presentation: https://docs.google.com/presentation/d/14DAvhOWz2T6HwG7H2F4QEpmrLBE9rdRIPF2L7yVAjFs/edit?usp=sharing
